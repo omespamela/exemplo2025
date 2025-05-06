@@ -10,7 +10,7 @@ nav {
     position: relative;
 }
 
-menu-toggle {
+.menu-toggle {
     display: none;
 }
 
@@ -29,13 +29,13 @@ menu-toggle {
     border-radius: 2px;
 }
 
-ul_menu {
+ul.menu {
     list-style: none;
     display: flex;
     gap: 20px;
 }
 
-ul_menu li a {
+ul.menu li a {
     color: black;
     text-decoration: none;
 }
